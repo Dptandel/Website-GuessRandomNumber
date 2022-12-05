@@ -1,3 +1,3 @@
 # Website-GuessRandomNumber
 Guess The Random Number Game
-My Portfolio link for this portfolio preview ---> 
+Game Website link for this portfolio preview ---> https://dptandel.github.io/Website-GuessRandomNumber/
